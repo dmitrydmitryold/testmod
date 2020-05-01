@@ -2,6 +2,6 @@ package testmod
 
 
 
-func mymodFunc(){
+func mymodFunc() int{
 return 1;
 }
